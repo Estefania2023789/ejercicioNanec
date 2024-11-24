@@ -1,0 +1,60 @@
+{
+  "restaurantes": [
+    {
+      "id": "1",
+      "nombre": "Restaurante El Buen Sabor",
+      "tipo": "Tradicional",
+      "horario": "12:00 - 22:00",
+      "imagen": ""
+    },
+    {
+      "id": "2",
+      "nombre": "Café del Valle",
+      "tipo": "Cafetería",
+      "horario": "08:00 - 20:00",
+      "imagen": ""
+    },
+    {
+      "id": "3",
+      "nombre": "La Parrilla de San José",
+      "tipo": "Parrillada",
+      "horario": "12:00 - 23:00",
+      "imagen": ""
+    },
+    {
+      "id": "4",
+      "nombre": "Tortillas tradicionales",
+      "tipo": "Tradicional",
+      "horario": "13:00 - 21:00",
+      "imagen": ""
+    },
+    {
+      "id": "5",
+      "nombre": "Tacos al pastor",
+      "tipo": "Mexicano",
+      "horario": "12:00 - 22:00",
+      "imagen": ""
+    },
+    {
+      "id": "7",
+      "nombre": "Tacos",
+      "tipo": "Colombia",
+      "horario": "14:00 - 22:00",
+      "imagen": ""
+    },
+    {
+      "id": "a",
+      "nombre": "m",
+      "tipo": "",
+      "horario": "",
+      "imagen": ""
+    },
+    {
+      "id": "9",
+      "nombre": "Restaurante9",
+      "tipo": "Tradicional",
+      "horario": "06:00-10:00",
+      "imagen": ""
+    }
+  ]
+}
